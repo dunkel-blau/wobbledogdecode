@@ -3,7 +3,7 @@ Importing, interpreting, and exporting dog codes from the game Wobbledogs.
 
 ## Usage
 
-Replace <operation> with what you want to do, and then input the dog code when prompted.
+Replace \<operation> with what you want to do, and then input the dog code when prompted.
   
 Operation | Effect
 ----------|-------
